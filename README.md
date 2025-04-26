@@ -141,7 +141,7 @@ jupyter notebook Earthquake_prediction.ipynb
 
 ## 🌐 Hugging Face App
 
-- 🌐 **Online Demo:** Try our model on [[Hugging Face Spaces](https://luffyking-earthquake-predictor.hf.space/?__theme=system&deep_link=HSibKR8KH80)](https://huggingface.co/spaces/username/app-name) for an interactive web demo.
+- 🌐 **Online Demo:** Try our model on [[[Hugging Face Spaces](https://luffyking-earthquake-predictor.hf.space/?__theme=system)]]([https://huggingface.co/spaces/username/app-name](https://luffyking-earthquake-predictor.hf.space/?__theme=system)) for an interactive web demo.
 - ⚙️ **No Installation Required:** Simply click the link above to access the demo; no setup needed.
 <!-- 📸 Screenshot: Add an illustrative screenshot of the Hugging Face App interface here. -->
 
