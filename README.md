@@ -200,6 +200,6 @@ jupyter notebook Earthquake_prediction.ipynb
   title        = {Earthquake Prediction Using Machine Learning and Deep Learning},
   author       = {TITAN},
   year         = {2025},
-  howpublished = [{\url{https://github.com/your-github-id/earthquake-prediction](https://github.com/SIBANSHAMISHRA/EARTHQUAKE-PREDICTION-SYSTEM)}},
+  howpublished = [{(https://github.com/SIBANSHAMISHRA/EARTHQUAKE-PREDICTION-SYSTEM)}],
 }
 ```
