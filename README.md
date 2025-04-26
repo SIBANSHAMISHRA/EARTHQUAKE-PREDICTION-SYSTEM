@@ -49,11 +49,11 @@ This project leverages **Machine Learning (ML)** and **Deep Learning (DL)** to:
 
 | Name    | GitHub                                                  | Email    |
 |---------|---------------------------------------------------------|----------|
-| SIBANSHA MISHRA   | [[GitHubID](https://github.com/SIBANSHAMISHRA)1](https://github.com/GitHubID1)               | sibanshamishra73@gmail.com   |
-| DEEPAM JYOTI MOHANTY   | [[GitHubID2](https://github.com/PHONEIX-06)](https://github.com/GitHubID2)               | deepamjyoti12345@gmail.com   |
-| SATYAKAM ACHARYA   | [[GitHubID3](https://github.com/Satyakamcoder)](https://github.com/GitHubID3)               | acharyasatyakam03@gmail.com   |
-| SAMBIT PRUTHWIRAJ MOHANTY   | [[GitHubID4](https://github.com/SambitPruthwiraj)](https://github.com/GitHubID4)               | sambitpruthwiraj@gmail.com   |
-| ARBIND MISHRA   | [[GitHubID5](https://github.com/Arbind4678)](https://github.com/GitHubID5)               | arbindmishra4678@gmail.com   |
+| SIBANSHA MISHRA   | [[GitHubID](https://github.com/SIBANSHAMISHRA)1]([https://github.com/GitHubID1](https://github.com/SIBANSHAMISHRA))               | sibanshamishra73@gmail.com   |
+| DEEPAM JYOTI MOHANTY   | [[GitHubID2](https://github.com/PHONEIX-06)]([https://github.com/GitHubID2](https://github.com/PHONEIX-06))               | deepamjyoti12345@gmail.com   |
+| SATYAKAM ACHARYA   | [[GitHubID3](https://github.com/Satyakamcoder)]([https://github.com/GitHubID3](https://github.com/Satyakamcoder))               | acharyasatyakam03@gmail.com   |
+| SAMBIT PRUTHWIRAJ MOHANTY   | [[GitHubID4](https://github.com/SambitPruthwiraj)](GitHubID4](https://github.com/SambitPruthwiraj)               | sambitpruthwiraj@gmail.com   |
+| ARBIND MISHRA   | [[GitHubID5](https://github.com/Arbind4678)]([https://github.com/GitHubID5](https://github.com/Arbind4678))               | arbindmishra4678@gmail.com   |
 | SAMIR PARIDA   | [GitHubID6](https://github.com/GitHubID6)               | Email6   |
 
 ---
