@@ -54,7 +54,7 @@ This project leverages **Machine Learning (ML)** and **Deep Learning (DL)** to:
 | SATYAKAM ACHARYA   | [[GitHubID3](https://github.com/Satyakamcoder)]([https://github.com/GitHubID3](https://github.com/Satyakamcoder))               | acharyasatyakam03@gmail.com   |
 | SAMBIT PRUTHWIRAJ MOHANTY   | [[GitHubID4](https://github.com/SambitPruthwiraj)]](https://github.com/SambitPruthwiraj)               | sambitpruthwiraj@gmail.com   |
 | ARBIND MISHRA   | [[GitHubID5](https://github.com/Arbind4678)]([https://github.com/GitHubID5](https://github.com/Arbind4678))               | arbindmishra4678@gmail.com   |
-| SAMIR PARIDA   | [GitHubID6](https://github.com/GitHubID6)               | Email6   |
+| SAMIR PARIDA   | [[GitHubID6](https://github.com/samirparida-119)]([https://github.com/GitHubID6](https://github.com/samirparida-119))               | Paridasamir71@gmail.com   |
 
 ---
 
