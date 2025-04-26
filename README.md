@@ -52,7 +52,7 @@ This project leverages **Machine Learning (ML)** and **Deep Learning (DL)** to:
 | SIBANSHA MISHRA   | [[GitHubID](https://github.com/SIBANSHAMISHRA)1]([https://github.com/GitHubID1](https://github.com/SIBANSHAMISHRA))               | sibanshamishra73@gmail.com   |
 | DEEPAM JYOTI MOHANTY   | [[GitHubID2](https://github.com/PHONEIX-06)]([https://github.com/GitHubID2](https://github.com/PHONEIX-06))               | deepamjyoti12345@gmail.com   |
 | SATYAKAM ACHARYA   | [[GitHubID3](https://github.com/Satyakamcoder)]([https://github.com/GitHubID3](https://github.com/Satyakamcoder))               | acharyasatyakam03@gmail.com   |
-| SAMBIT PRUTHWIRAJ MOHANTY   | [[GitHubID4](https://github.com/SambitPruthwiraj)](GitHubID4](https://github.com/SambitPruthwiraj)               | sambitpruthwiraj@gmail.com   |
+| SAMBIT PRUTHWIRAJ MOHANTY   | [[GitHubID4](https://github.com/SambitPruthwiraj)]](https://github.com/SambitPruthwiraj)               | sambitpruthwiraj@gmail.com   |
 | ARBIND MISHRA   | [[GitHubID5](https://github.com/Arbind4678)]([https://github.com/GitHubID5](https://github.com/Arbind4678))               | arbindmishra4678@gmail.com   |
 | SAMIR PARIDA   | [GitHubID6](https://github.com/GitHubID6)               | Email6   |
 
@@ -180,7 +180,7 @@ jupyter notebook Earthquake_prediction.ipynb
 
 - 📫 **Email:** [sibanshamishra73@gmail.com](mailto:your.email@example.com)
 - 💬 **GitHub Issues:** Use the [Issues Page](https://github.com/your-github-id/earthquake-prediction/issues) to ask questions.
-- 👤 **Maintainer:** [[SIBANSHAMISHRA](https://github.com/SIBANSHAMISHRA)](https://github.com/your-github-id)
+- 👤 **Maintainer:** [[SIBANSHAMISHRA](https://github.com/SIBANSHAMISHRA)]([https://github.com/your-github-id](https://github.com/SIBANSHAMISHRA))
 
 ---
 
@@ -198,8 +198,8 @@ jupyter notebook Earthquake_prediction.ipynb
 ```bibtex
 @misc{YourTeam2025,
   title        = {Earthquake Prediction Using Machine Learning and Deep Learning},
-  author       = {Your Team Name},
+  author       = {TITAN},
   year         = {2025},
-  howpublished = {\url{https://github.com/your-github-id/earthquake-prediction}},
+  howpublished = [{\url{https://github.com/your-github-id/earthquake-prediction](https://github.com/SIBANSHAMISHRA/EARTHQUAKE-PREDICTION-SYSTEM)}},
 }
 ```
