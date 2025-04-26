@@ -45,7 +45,6 @@ This project leverages **Machine Learning (ML)** and **Deep Learning (DL)** to:
 
 ## 👥 Team Members
 
-> Add your team details below:
 
 | Name    | GitHub                                                  | Email    |
 |---------|---------------------------------------------------------|----------|
