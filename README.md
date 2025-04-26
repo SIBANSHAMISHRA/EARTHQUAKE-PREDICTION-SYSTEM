@@ -49,12 +49,12 @@ This project leverages **Machine Learning (ML)** and **Deep Learning (DL)** to:
 
 | Name    | GitHub                                                  | Email    |
 |---------|---------------------------------------------------------|----------|
-| Name1   | [GitHubID1](https://github.com/GitHubID1)               | Email1   |
-| Name2   | [GitHubID2](https://github.com/GitHubID2)               | Email2   |
-| Name3   | [GitHubID3](https://github.com/GitHubID3)               | Email3   |
-| Name4   | [GitHubID4](https://github.com/GitHubID4)               | Email4   |
-| Name5   | [GitHubID5](https://github.com/GitHubID5)               | Email5   |
-| Name6   | [GitHubID6](https://github.com/GitHubID6)               | Email6   |
+| SIBANSHA MISHRA   | [[GitHubID](https://github.com/SIBANSHAMISHRA)1](https://github.com/GitHubID1)               | sibanshamishra73@gmail.com   |
+| DEEPAM JYOTI MOHANTY   | [[GitHubID2](https://github.com/PHONEIX-06)](https://github.com/GitHubID2)               | deepamjyoti12345@gmail.com   |
+| SATYAKAM ACHARYA   | [[GitHubID3](https://github.com/Satyakamcoder)](https://github.com/GitHubID3)               | acharyasatyakam03@gmail.com   |
+| SAMBIT PRUTHWIRAJ MOHANTY   | [[GitHubID4](https://github.com/SambitPruthwiraj)](https://github.com/GitHubID4)               | sambitpruthwiraj@gmail.com   |
+| ARBIND MISHRA   | [[GitHubID5](https://github.com/Arbind4678)](https://github.com/GitHubID5)               | arbindmishra4678@gmail.com   |
+| SAMIR PARIDA   | [GitHubID6](https://github.com/GitHubID6)               | Email6   |
 
 ---
 
@@ -178,9 +178,9 @@ jupyter notebook Earthquake_prediction.ipynb
 
 ## ✉️ Contact Us
 
-- 📫 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📫 **Email:** [sibanshamishra73@gmail.com](mailto:your.email@example.com)
 - 💬 **GitHub Issues:** Use the [Issues Page](https://github.com/your-github-id/earthquake-prediction/issues) to ask questions.
-- 👤 **Maintainer:** [Your Name](https://github.com/your-github-id)
+- 👤 **Maintainer:** [[SIBANSHAMISHRA](https://github.com/SIBANSHAMISHRA)](https://github.com/your-github-id)
 
 ---
 
