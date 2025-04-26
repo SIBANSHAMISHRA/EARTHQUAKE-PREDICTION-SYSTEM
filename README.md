@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-green)
 
 > Predict earthquake **magnitude** and **severity** using ML/DL to support disaster preparedness and early warning systems.  
-> Real-time interactive web app hosted on [Hugging Face 🤗](#hugging-face-app).
+> Real-time interactive web app hosted on [Hugging Face 🤗](https://luffyking-earthquake-predictor.hf.space/?__theme=system).
 
 ---
 
