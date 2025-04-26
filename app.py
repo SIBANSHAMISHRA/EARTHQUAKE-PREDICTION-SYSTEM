@@ -2,8 +2,8 @@ import gradio as gr
 import numpy as np
 import joblib
 
-# Load models
-clf, le = joblib.load('classifier.pkl')  # classifier and label encoder
+
+clf, le = joblib.load('classifier.pkl')  # classifier 
 reg = joblib.load('regressor.pkl')       # regressor
 
 def predict(lat, lon, dep):
@@ -12,7 +12,7 @@ def predict(lat, lon, dep):
         severity_idx = clf.predict(features)[0]
         severity_label = le.inverse_transform([severity_idx])[0]
 
-        # Optional: reverse severity if needed (comment this block if not required)
+        
         reverse_map = {
             'severe': 'mild',
             'moderate': 'moderate',
@@ -25,7 +25,7 @@ def predict(lat, lon, dep):
     except Exception as e:
         return f"Error: {str(e)}", ""
 
-# Gradio UI
+
 iface = gr.Interface(
     fn=predict,
     inputs=[
@@ -41,6 +41,6 @@ iface = gr.Interface(
     description="Predict earthquake severity & magnitude from real USGS data."
 )
 
-# Run in Colab or script
+
 if __name__ == "__main__":
     iface.launch()
