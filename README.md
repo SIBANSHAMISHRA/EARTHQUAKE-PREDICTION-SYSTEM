@@ -180,7 +180,7 @@ jupyter notebook Earthquake_prediction.ipynb
 
 - 📫 **Email:** [sibanshamishra73@gmail.com](mailto:your.email@example.com)
 - 💬 **GitHub Issues:** Use the [Issues Page](https://github.com/your-github-id/earthquake-prediction/issues) to ask questions.
-- 👤 **Maintainer:** [[SIBANSHAMISHRA](https://github.com/SIBANSHAMISHRA)]([[https://github.com/your-github-id](https://github.com/SIBANSHAMISHR)])
+- 👤 **Maintainer:** [[SIBANSHAMISHRA](https://github.com/SIBANSHAMISHRA)]([[https://github.com/your-github-id](https://github.com/SIBANSHAMISHRA)])
 
 ---
 
